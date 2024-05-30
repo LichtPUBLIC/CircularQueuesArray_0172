@@ -23,4 +23,10 @@ public:
             return;
         }
 
-       
+        // Cek apakah antrina kosong 
+        if (FRONT == -1) {
+            FRONT = 0;
+            REAR = 0;
+        }
+    }
+};
