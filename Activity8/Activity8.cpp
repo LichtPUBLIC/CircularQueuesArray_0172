@@ -59,7 +59,7 @@ public:
                 FRONT = FRONT + 1;
         }
     }
-                                        // terakhir comit
+                                        
     void display() {
 
         int FRONT_Position = FRONT;
